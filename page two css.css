@@ -1,0 +1,130 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@charset "UTF-8";
+/* CSS Document */
+
+a:link {
+color:#909090; 
+background-color: transparent; 
+text-decoration: none;
+}
+a:hover{
+color:#666; 
+border-bottom: 1px #909090;
+background-color: transparent; 
+text-decoration: underline;
+}
+a:visited{
+color:#909090; 
+text-decoration: none;
+}
+
+.Square5 {
+	background-image: url("Square5.jpg");
+		position: absolute;
+		overflow: visible;
+		width: 274px;
+		height: 274px;
+		left: 681px;
+		top: 354px;
+
+}
+
+
+.Square5:hover {
+	background-image: url("Square5_blur.jpg");
+	cursor:pointer;
+}
+
+.Square3 {
+		position: absolute;
+		overflow: visible;
+		width: 274px;
+		height: 274px;
+		left: 976px;
+		top: 354px;
+	background-image: url("Square3.jpg");
+}
+
+
+
+.Square3:hover {
+	background-image: url("Square3_blur.jpg");
+	cursor:pointer;
+}
+
+.squares4 {
+	background-image: url("Squares4.jpg");
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 274px;
+	left: 681px;
+	top: 655px;
+}
+
+.squares4:hover {
+	background-image:
+	url("Squares4_blur.jpg");
+	cursor: pointer; 
+}
+
+.squares_2 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 274px;
+	left: 976px;
+	top: 655px;
+	background-image:
+	url("squares2.jpg");
+	cursor: pointer;
+	
+}
+
+.squares_2:hover {
+	background-image:url("squares2_blur.jpg");
+	cursor:pointer;
+}
+
+.squares {
+	position: absolute;
+	overflow: visible;
+	width: 280px;
+	height: 280px;
+	left: 680px;
+	top: 956px;
+	background-image:url("squares.jpg")
+}
+
+.squares:hover {
+	background-image: url("squares_blur.jpg");
+	cursor: pointer;
+}
+
+.squares_6 {
+	background-image:url("Square1.jpg");
+	position: absolute;
+	overflow: visible;
+	width: 280px;
+	height: 280px;
+	left: 976px;
+	top: 956px;
+}
+
+.squares_6:hover {
+	background-image: url("Square1_blur.jpg");
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
